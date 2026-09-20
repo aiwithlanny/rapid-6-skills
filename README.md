@@ -1,6 +1,6 @@
-# RAPID 6.0 Skills｜一頁安裝目錄（私有）
+# RAPID 6.0 Skills｜一頁安裝目錄
 
-僅供課程學員。請勿公開轉發。
+課程學員優先從此頁下載。請勿二次公開轉賣／整包外流。
 
 ## 一鍵下載（官方＋第三方同一頁）
 
@@ -56,7 +56,6 @@ https://github.com/aiwithlanny/rapid-6-skills/releases/tag/v2.0.0
 
 ## 學員取用
 
-1. 接受 Collaborator 邀請  
-2. 打開上方 **v2.0.0 Release**  
+1. 打開上方 **v2.0.0 Release**  
 3. 依上表下載需要的 zip → 上傳安裝  
 4. 第三方問題找原作者；課內問題找助教／Discord  
