@@ -1,31 +1,34 @@
-# RAPID 6.0 官方 Skill 包（私有）
+# RAPID 6.0 Skills（私有）
 
-僅供課程學員下載。請勿公開轉發。
+僅供課程學員。請勿公開轉發。
 
-## 安裝方式（Codex／Claude）
+## 目錄
 
-1. 下載對應 zip（**不用解壓縮**）
-2. 上傳到 AI，說：「請幫我安裝這個 Skill」
+| 路徑 | 內容 |
+|------|------|
+| [`skills/`](./skills/) | **官方課內** Skill zip（RAPID 整理） |
+| [`third-party/`](./third-party/) | **第三方推薦** Skill（別人做的，我們只推薦） |
+| [`學員使用說明.md`](./學員使用說明.md) | 學員安裝／下載短說明 |
+| [Releases](https://github.com/aiwithlanny/rapid-6-skills/releases) | 含大檔在內的完整下載 |
 
-## 清單（對應課次）
+## 官方課內 Skill（`skills/`）
 
-| 檔名 | Skill | 課次 |
-|------|-------|------|
-| product-selling-points.zip | 產品賣點梳理 | 第2課 |
-| workbench-dialogue-mining.zip | 對話挖掘工作台細節 | 第3課 |
-| competitor-check.zip | 對標檢測 | 第4課 |
-| single-post-breakdown.zip | 拆解單條貼文 | 第4課 |
-| competitor-account-breakdown.zip | 拆解對標帳號 | 第4課 |
-| ig-carousel.zip | IG輪播圖製作 | 第4課 |
-| xhs-knowledge-creator.zip | 七七小紅書知識博主圖文 | 第4課 |
-| high-converting-landing.zip | 七七高轉化落地頁 | 第6課 |
-| short-video-viral-breakdown.zip | 短影片爆款拆解助手 | 內部庫 |
+| 檔名 | 課次／用途 |
+|------|------------|
+| product-selling-points.zip | 第2課｜產品賣點梳理 |
+| workbench-dialogue-mining.zip | 第3課｜對話挖掘工作台細節 |
+| competitor-check.zip | 第4課｜對標檢測 |
+| single-post-breakdown.zip | 第4課｜拆解單條貼文 |
+| competitor-account-breakdown.zip | 第4課｜拆解對標帳號 |
+| ig-carousel.zip | 第4課｜IG 輪播圖 |
+| xhs-knowledge-creator.zip | 第4課｜七七小紅書知識博主圖文 |
+| high-converting-landing.zip | 第6課｜七七高轉化落地頁 |
+| short-video-viral-breakdown.zip | 短影片爆款拆解（僅 Release） |
 
-## 學員取用
+## 第三方推薦（`third-party/`）
 
-請倉庫擁有者把學員 GitHub 帳號加為 Collaborator（Read），或透過 Organization 私有分配。
+**不是我們製作。** 僅推薦好用的開源 Skill，詳見 [`third-party/README.md`](./third-party/README.md)。
 
-## 大檔案說明
+## 學員怎麼用
 
-`short-video-viral-breakdown.zip`（約 220MB）超過 GitHub 單檔 100MB 限制，放在 **Releases** 下載：
-https://github.com/aiwithlanny/rapid-6-skills/releases
+請讀：**[學員使用說明.md](./學員使用說明.md)**
